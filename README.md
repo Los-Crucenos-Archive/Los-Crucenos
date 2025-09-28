@@ -1,3 +1,4 @@
 # Los-Crucenos
-A Collection of All of Tony Fresquez’s Music from Los Cruceños. Created By K1ngw1ng
+A Collection of All Source Code Files Relating to Los Cruceños Archive.
 
+Music Can Be Found Here: https://archive.org/details/loscrucenos
